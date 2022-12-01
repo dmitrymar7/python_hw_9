@@ -1,0 +1,1 @@
+<phonebook><record><name>Дмитрий</name><telephone>35345</telephone><comment>мобильный</comment></record><record><name>Николай</name><telephone>4545452</telephone><comment>домашний</comment></record><record><name>Николай</name><telephone>1113331</telephone><comment>домашний</comment></record></phonebook>
